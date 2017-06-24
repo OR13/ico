@@ -1,0 +1,27 @@
+{
+  "name": "transmute-ico",
+  "version": "1.0.0",
+  "description": "### Reading",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "testrpc": "pm2 start testrpc",
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transmute-industries/ico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/transmute-industries/ico/issues"
+  },
+  "homepage": "https://github.com/transmute-industries/ico#readme",
+  "devDependencies": {
+    "pm2": "^2.5.0",
+    "ethereumjs-testrpc": "3.0.5"
+  }
+}
