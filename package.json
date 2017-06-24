@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/transmute-industries/ico#readme",
   "devDependencies": {
-    "pm2": "^2.5.0",
-    "ethereumjs-testrpc": "3.0.5"
+    "pm2": "^2.5.0"
   }
 }
